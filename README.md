@@ -44,8 +44,6 @@ Copy code
 ├── model.pkl (optional)
 ├── requirements.txt
 └── README.md
-📸 Screenshots
-Add screenshots of the UI here.
 
 ✨ Future Improvements
 Add dashboard for analytics
