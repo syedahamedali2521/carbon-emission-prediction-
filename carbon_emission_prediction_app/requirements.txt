@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+pandas
+numpy
+plotly
+fpdf  # for PDF export
